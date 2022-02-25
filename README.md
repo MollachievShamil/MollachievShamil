@@ -1,6 +1,6 @@
 - 👋 Hi, My name is Shamil and I'm from Siberia
 - 👀 I’m interested in Swift, Harry Potter, Audi, CME
-- 🌱 I’m currently learning how to build nice project architecture
+- 🌱 I’m currently learning TCP/IP
 - 💞️ It would be nice to collaborate
 - 📫 How to reach me: Telegram: @pirojenoe / Mail: mollachievshamil@yandex.ru
 
